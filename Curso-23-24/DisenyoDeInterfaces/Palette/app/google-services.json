@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360961803646",
+    "project_id": "palette-41c3d",
+    "storage_bucket": "palette-41c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360961803646:android:f0eef870e46df9e4811f2f",
+        "android_client_info": {
+          "package_name": "com.example.palette"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBTbFNLkorGiCfNFEchyT5jFF0EWfz1SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

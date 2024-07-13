@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>676984425226-r4rsu6k7os58e1l42d81aqmioo5n4j6v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.676984425226-r4rsu6k7os58e1l42d81aqmioo5n4j6v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDYsl6CJbm8zscEgi9C7Qil_riaowL3VDY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>676984425226</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pruebaFirebase.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>proyectoflutter-a557e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>proyectoflutter-a557e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:676984425226:ios:e21c0efe50a4ee9a2b88f3</string>
+	<key>DATABASE_URL</key>
+	<string>https://proyectoflutter-a557e-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
